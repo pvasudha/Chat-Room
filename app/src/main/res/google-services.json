@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "905402616894",
+    "firebase_url": "https://chatroom-7a8e9.firebaseio.com",
+    "project_id": "chatroom-7a8e9",
+    "storage_bucket": "chatroom-7a8e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905402616894:android:8ebdedad6a7c81ca",
+        "android_client_info": {
+          "package_name": "hack.pranav.hackersquad.chatroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905402616894-k5qtvqevmqv33b0hfp5h6b3pksmodp23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLWC5G0hIS-HjcAhq90ZYJ6LxYlSjmcnk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
